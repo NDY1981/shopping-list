@@ -1,0 +1,16 @@
+{
+    "name": "Shopping List",
+    "short_name": "ShoppingList",
+    "description": "Shopping list web app.",
+    "icons": [
+        {
+            "src": "icons/icon.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/shopping_list/index.html",
+    "display": "fullscreen",
+    "theme_color": "#4FA0B5",
+    "background_color": "#4FA0B5"
+}

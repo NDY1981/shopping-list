@@ -5,6 +5,7 @@ var appShellFiles = [
     '/shopping_list/index.html',
     '/shopping_list/favicon.png',
     '/shopping_list/icons/icon.png',
+    '/shopping_list/icons/icon2.png',
     '/shopping_list/app.js',
     '/shopping_list/styles/style.css',
     '/shopping_list/styles/bootstrap.min.css',

@@ -7,11 +7,6 @@
             "src": "icons/icon.png",
             "sizes": "698x498",
             "type": "image/png"
-        },
-        {
-            "src": "icons/icon2.png",
-            "sizes": "225x225",
-            "type": "image/png"
         }
     ],
     "start_url": "/shopping_list/index.html",

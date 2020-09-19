@@ -1,4 +1,4 @@
-var cacheName = 'ShoppingList';
+var cacheName = 'Shopping List';
 
 var appShellFiles = [
     '/shopping_list/',
